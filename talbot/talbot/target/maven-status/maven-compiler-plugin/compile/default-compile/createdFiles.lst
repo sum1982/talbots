@@ -1,0 +1,7 @@
+com\talbot\qa\pages\FindAStorePage.class
+com\talbot\qa\pages\GiftCardPage.class
+com\talbot\qa\pages\ResultPage.class
+com\talbot\qa\base\TestBase.class
+com\talbot\qa\pages\HomePage.class
+com\qa\ExtentReportListner\ExtentReportListener.class
+com\talbot\util\TestUtil.class

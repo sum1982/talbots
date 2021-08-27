@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 39.698 sec <<< FAILURE!
+homePageTest(com.talbot.qa.testcases.SearchPageTest)  Time elapsed: 9.252 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Organic True Cotton Tonal Striped Sleep Shirt | Haven Well Within] but found [Access to this page has been denied.]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at com.talbot.qa.testcases.SearchPageTest.homePageTest(SearchPageTest.java:45)
+
